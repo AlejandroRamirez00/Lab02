@@ -12,6 +12,8 @@
 
     <body>
 
+        <?php include "inc/nav.php";?>
+
         <header>
 
             <h1> Silicon Valley </h1>

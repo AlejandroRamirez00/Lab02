@@ -10,6 +10,9 @@
 	</head>
 
 	<body>
+
+		<?php include "inc/nav.php";?>
+
 		<header>
 			<h1>Thylacine</h1>
 			<div>The Tasmanian Tiger or Tasmanian Wolf is neither tiger nor wolf: It is more like a kangaroo, actually.</div>
