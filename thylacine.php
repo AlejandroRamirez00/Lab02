@@ -6,7 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Lab05</title>
-		<link rel="stylesheet" href="CSS/styles.css">
+		<link rel="stylesheet" href="css/styles_thylacine.css">
+		<link rel="stylesheet" href="css/nav.css">
 	</head>
 
 	<body>

@@ -7,6 +7,7 @@
         <meta charset="utf-8">
         <title>Lab 05 – Silicon Valley</title>
         <link rel="stylesheet" href="css/styles.css"> 
+        <link rel="stylesheet" href="css/nav.css">
 
     </head>
 

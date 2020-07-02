@@ -1,0 +1,21 @@
+.menu ul {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-around;
+	margin-left: 70%;
+
+
+}
+
+
+.menu li a {
+	background-color: darkcyan;
+	color: lavender;
+	padding: 5px 5px 5px 5px;
+}
+
+.menu li a:hover {
+	background-color: cadetblue;
+	color: maroon;
+	border: 1px dotted white;
+}
