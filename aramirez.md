@@ -58,7 +58,6 @@
  - Intel
  - Twitter
 
-
 ## _Higher Education_
  - Stanford University
  - University of California, Berkeley
@@ -67,7 +66,6 @@
  - San Francisco State University
  - City College of San Francisco
  - San José State University
-
 
 ## _Citations_
  - Silicon Valley Business Journal – San Jose Area has World's Third-Highest GDP Per Capita, Brookings Says [Link to source](http://www.bizjournals.com/sanjose/news/2015/01/23/san-jose-has-worlds-third-highest-gdp-per-capita.html)
