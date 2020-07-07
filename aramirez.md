@@ -1,3 +1,5 @@
+[Silicon Valley](http://csc174.org/lab02/chicago/siliconvalley.php "Silicon Valley") | [Thylacine](http://csc174.org/lab02/chicago/thylacine.php "Thylacine")
+
 # Silicon Valley
  The high-tech hub of the Bay Area 
 
