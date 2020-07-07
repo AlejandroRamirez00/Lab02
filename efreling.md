@@ -1,8 +1,4 @@
-﻿
-|     |  |
-|-------|------|
-|[Silicon Valley](http://csc174.org/lab02/chicago/siliconvalley.php "Silicon Valley")|[Thylacine](http://csc174.org/lab02/chicago/thylacine.php "Thylacine")|
-|
+﻿|[Silicon Valley](http://csc174.org/lab02/chicago/siliconvalley.php "Silicon Valley")|[Thylacine](http://csc174.org/lab02/chicago/thylacine.php "Thylacine")|
 
  # Thylacine
  
@@ -11,6 +7,7 @@ The Tasmanian Tiger or Tasmanian Wolf is neither tiger nor wolf: It is more like
 
 ## *General Information*
 ![A thylacine family in captivity](http://csc174.org/lab02/chicago/images/thylacine_cubs.jpg "Thylacine Cubs")
+
 The thylacine, now extinct, is one of the largest known carnivorous marsupials, evolving about 4 million years ago. The last known live animal was captured in 1933 in Tasmania. It is commonly known as the Tasmanian tiger because of its striped lower back, or the Tasmanian wolf because of its canid-like characteristics. It was native to Tasmania, New Guinea, and the Australian mainland.
 
 The thylacine was relatively shy and nocturnal, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo, and dark transverse stripes that radiated from the top of its back, reminiscent of a tiger. The thylacine was a formidable apex predator, though exactly how large its prey animals were is disputed. Because of convergent evolution, it displayed a form and adaptations similar to the tiger and wolf of the Northern Hemisphere, even though not related. Its closest living relative is either the Tasmanian Devil or the numbat. The thylacine was one of only two marsupials to have a pouch in both sexes: the other is the water opossum.
@@ -26,6 +23,7 @@ However, a counter-argument is that the two species were not in direct competiti
 
 ## *"Benjamin" and Searches*
 ![Benjamin, the last known thylacine, showing the animal's signature yawn](http://csc174.org/lab02/chicago/images/benjamin.jpg "Benjamin, the Last Thylacine")
+
 The last captive thylacine, later referred to as "Benjamin", was trapped in the Florentine Valley by Elias Churchill in 1933, and sent to the Hobart Zoo where it lived for three years. The thylacine died on 7 September 1936. It is believed to have died as the result of neglect—locked out of its sheltered sleeping quarters, it was exposed to a rare occurrence of extreme Tasmanian weather: extreme heat during the day and freezing temperatures at night. This thylacine features in the last known motion picture footage of a living specimen: 62 seconds of black-and-white footage showing the thylacine in its enclosure in a clip taken in 1933, by naturalist Davide Fleay. In the film footage, the thylacine is seen seated, walking around the perimeter of its enclosure, yawning (exposing its impressive gape), sniffing the air, scratching itself (in the same manner as a dog), and lying down.
 
 Frank Darby, who claimed to have been a keeper at Hobart Zoo, suggested "Benjamin" as having been the animal's pet name in a newspaper article of May 1968. No documentation exists to suggest that it ever had a pet name, and Alison Reid (de facto curator at the zoo) and Michael Sharland (publicist for the zoo) denied that Frank Darby had ever worked at the zoo or that the name "Benjamin" was ever used for the animal. Darby also appears to be the source for the claim that the last thylacine was a male. Robert Paddle was unable to uncover any records of any Frank Darby having been employed by Beaumaris/Hobart Zoo during the time that Reid or her father was in charge and noted several inconsistencies in the story Darby told during his interview in 1968.
@@ -45,6 +43,7 @@ In 2008, researchers Andrew J. Pask and Marilyn B. Renfree from the University o
 
 ## *Miscellaneous Unconfirmed Sightings:*
 ![A male and female pair in captivity](http://csc174.org/lab02/chicago/images/two_thylacines.jpg "A Pair of Thylacines in Captivity")
+
 There have been many reports of thylacine sightings since their apparent extinction. Some accounts provide photographs (although none conclusive) and others have been investigated for evidence of the animal’s presence (there has never been a confirmation). None of the sightings have been substantiated with indisputable evidence, and they are generally assumed to be another animal mistaken for the thylacine.
 
 *   65 sightings reported in Western Australia over 50 years
